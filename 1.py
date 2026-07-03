@@ -1,5 +1,8 @@
 def greet():
-    print("Hello")
+    print("hello")
+
+def greetWhite():
+    print("hello white")
 
 if __name__ == "__main__":
     greet()
